@@ -27,6 +27,11 @@ h1:focus {
     color: white;
 }
 
-    .blazor-error-boundary::after {
-        content: "An error has occurred."
-    }
+.blazor-error-boundary::after {
+    content: "An error has occurred."
+}
+
+.bg-image {
+    background-image: src('../img/bg-cirsa.png');
+    background-repeat: no-repeat;
+}

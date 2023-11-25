@@ -12,4 +12,12 @@
     <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components" Version="4.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\img\cirsa-bg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\img\icons\" />
+  </ItemGroup>
+
 </Project>
