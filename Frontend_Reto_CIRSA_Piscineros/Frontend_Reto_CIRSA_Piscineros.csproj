@@ -9,6 +9,15 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.13" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.13" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components" Version="4.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\img\cirsa-bg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\img\icons\" />
   </ItemGroup>
 
 </Project>
