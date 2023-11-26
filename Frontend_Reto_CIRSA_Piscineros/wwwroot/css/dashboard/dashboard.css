@@ -1,0 +1,26 @@
+﻿
+.table {
+    width: 85vh
+}
+
+.table td, .table th {
+    vertical-align: middle;
+    padding: 15px;
+}
+
+.element-selector {
+    width: 75%;
+}
+
+#color-display {
+    border: 1px solid black;
+}
+
+.element-selector {
+    width: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid green;
+}
+

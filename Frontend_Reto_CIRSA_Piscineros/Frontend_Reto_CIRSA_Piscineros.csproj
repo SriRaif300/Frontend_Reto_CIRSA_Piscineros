@@ -11,4 +11,10 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.13" PrivateAssets="all" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\icons\info\" />
+    <Folder Include="wwwroot\icons\ok\" />
+    <Folder Include="wwwroot\icons\warning\" />
+  </ItemGroup>
+
 </Project>
