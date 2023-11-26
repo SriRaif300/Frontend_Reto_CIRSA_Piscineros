@@ -1,0 +1,45 @@
+﻿.font_home {
+    font-family: 'Open Sans', sans-serif;
+}
+.containe-login {
+    background-color: #ca9c2b;
+    color: white;
+    text-align: end;
+    padding: 5px;
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+.color600 {
+    color: #aa8128;
+}
+
+.btn-home {
+    background-color: white;
+    color: #aa8128;
+    border: 2px solid #aa8128;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 10px;
+    text-align: center;
+    margin: 2%;
+    width: 30%;
+}
+
+    .btn-home:hover {
+        background-color: #aa8128;
+        color: white;
+    }
+
+.container-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-index {
+    background-color: #d4a52d;
+    color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
