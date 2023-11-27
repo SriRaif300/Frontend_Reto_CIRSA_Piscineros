@@ -19,4 +19,11 @@
   <ItemGroup>
     <Folder Include="wwwroot\img\icons\" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\icons\info\" />
+    <Folder Include="wwwroot\icons\ok\" />
+    <Folder Include="wwwroot\icons\warning\" />
+  </ItemGroup>
+
 </Project>
