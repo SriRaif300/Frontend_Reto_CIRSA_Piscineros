@@ -8,4 +8,4 @@ Aclaraciones de lado, nuestra idea inicial era afrontar el reto de la forma mas 
 
 En cuanto al diseño, optamos por interfaces que se vieran de un estilo moderno, siguiendo en ciertos aspectos la utilización de los elementos que pudieran llegar a hacer más cómoda la experiencia al usuario final.
 
-Para el stack, decidimos seguir las contraindicaciones del proyecto y utilizar .NET y C@ mediante Blazor.
+Para el stack, decidimos seguir las contraindicaciones del proyecto y utilizar .NET y C# mediante Blazor.
